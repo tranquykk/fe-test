@@ -88,7 +88,7 @@ background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32
 .text-content {
     color: #fff;
     width: 100%;
-    height: 100%; ad
+    height: 100%;
     text-align: left;
     background: rgba(0, 0, 0, 0.4);
 }
@@ -658,7 +658,7 @@ background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32
 }
 
 .footer {
-    height: 1106px;
+    /* height: 110px; */
 }
 
 .footer-item img{
