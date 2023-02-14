@@ -78,11 +78,11 @@ background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32
     position: relative;
     margin-top: 0%;
     padding-top: 785px;
-    background: url(../images/u2_state0.jpg) top center / cover no-repeat;
+    background: url(images/u2_state0.jpg) top center / cover no-repeat;
 }
 
 .features {
-    background: url(../images/u2_state0.jpg) top center / cover no-repeat;
+    background: url(images/u2_state0.jpg) top center / cover no-repeat;
 }
 
 .text-content {
@@ -595,7 +595,7 @@ background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32
 .design {
     height: 320px;
     position: relative;
-    background: url(../images/u25_state0.jpg) top center / cover no-repeat;
+    background: url(images/u25_state0.jpg) top center / cover no-repeat;
 }
 
 .design-blur {
